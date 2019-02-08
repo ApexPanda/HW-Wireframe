@@ -1,6 +1,6 @@
 
 body {
-    background-color: darkslategrey;
+    background-color: #777777;
 }
 
 .thirds{
@@ -8,11 +8,12 @@ body {
 }
 
  .outside {
-     width: 25%;
+     width: 15%;
+     color: #777777;
  }
 
  .inside {
-     width: 50%;
+     width: 70%;
  }
 
 
@@ -33,22 +34,24 @@ nav {
 section {
     background-color: white;
     text-align: center;
-    width: 751px;
-    height: 416px;
+    width: 509px;
+    height: 381px;
     float: left;
     /* padding: 2px; */
     margin: 19px;
     margin-left: 20px;
     margin-top: 5px;
     /* border: 10px; */
+    padding-top: 35px;
 }
 
 article { 
-    background-color: darkslategrey;
-    width: 564px;
+    background-color: #777777;
+    width: 324px;
     height: 198px;
-    padding: 20px;
+    padding: 18px;
     margin: 72px;
+    margin-top: 46px;
 }
 
 #h1box {
@@ -68,7 +71,7 @@ article {
 aside {
     background-color: white;
     text-align: center;
-    width: 680px;
+    width: 449px;
     height: 337px;
     float: left;
     padding: 40px;
@@ -78,7 +81,8 @@ aside {
 footer {
     background-color: white;
     padding: 20px;
-    margin: 10px;
+    margin: 17px;
+    height: 30px;
     text-align: center;
     clear: both;
 }
